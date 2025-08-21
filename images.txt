@@ -1,2 +1,2 @@
 nginx
-nvidia/cuda:11.2-devel-ubuntu18.04
+nvidia/cuda:11.0-devel-ubuntu18.04
